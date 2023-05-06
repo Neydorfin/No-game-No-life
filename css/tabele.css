@@ -1,0 +1,95 @@
+.conteiner{
+    width: 50%;
+    display: block;
+}
+
+h1{
+    font-size: 3em;
+    padding-top: 1%;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+.con-conteiner{
+    display: flex;
+    width: 70%;
+    margin: 2% 15%;
+}
+
+.con-conteiner table{
+    color: #f2f2f2;
+    width: 50%;
+    margin: 2% 5% 0% 5%;
+}
+
+table{
+    margin: 2%  15%;
+    color: #f2f2f2;
+    width: 70%;
+}
+
+td{
+    background-color: #454545;
+    padding: 5px;
+}
+
+th{
+    background-color: #1d1d1d;
+    padding: 5px;
+}
+
+#action{
+    color: #f2f2f2;
+    padding: 1%;
+    background-color: #454545;
+    border: #1d1d1d solid 2px;
+    border-radius: 20px;
+}
+
+.change{
+    border-radius: 50px;
+    background-color: #454545;
+    border: solid #1d1d1d 2px;
+    padding: 5px;
+    color: aliceblue;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+}
+
+.change:hover{
+    background-color: #626262;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+}
+
+.tables{
+    align-items: center;
+}
+
+.insert{
+    width: 4%;
+    background-color: #454545;
+    margin-left: 43%;
+    border-radius: 60px;
+    font-size: 2em;
+    color: black;
+}
+
+.insert:hover{
+    background-color: #626262;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+}
+
+.insert_input{
+    border-radius: 50px;
+    width: 30%;
+    background-color: #454545;
+    border: solid #1d1d1d 2px;
+    padding: 5px;
+    color: aliceblue;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+    margin: 0 20%;
+
+}

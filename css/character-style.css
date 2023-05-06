@@ -1,0 +1,39 @@
+.con-character{
+    display: inline-flex;   
+    width: 80%;
+    margin: 0 10%;
+}
+
+table{
+    margin: 5%;
+    color: #f2f2f2;
+    width: 90%;
+}
+
+td{
+    width: 50%;
+    background-color: #454545;
+    padding: 1% 3%;
+}
+
+.img-character{
+    margin: 5% 2%;
+    width: 20%;
+}
+
+@media screen and (max-width: 900px) {
+    .con-character{
+        width: 96%;
+        margin: 2%;
+    }
+    
+    table{
+        width: 90%;
+        margin: 0;
+    }
+
+    .img-character{
+        margin: 0% 0%;
+        width: 20%;
+    }
+}

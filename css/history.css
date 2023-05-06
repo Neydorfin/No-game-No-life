@@ -1,0 +1,56 @@
+.conteiner{
+    border-radius: 15px;
+    padding: 2%;
+    display: block;
+}
+
+h1{
+    font-size: 3em;
+    padding-top: 1%;
+    text-align: center;
+    color: #f2f2f2;
+}
+.contimg{
+    width: 30%;
+    height: 30%;
+    border-radius: 20px;
+    margin: 2% 2% 0  2%;
+}
+
+.con-conteiner{
+    background-color: rgb(32, 32, 32);
+    margin: 0 10%;
+    width: 80%;
+    border-radius: 50px;
+}
+
+.conteiner  p{
+    text-indent: 25px;
+    color: #f2f2f2;
+}
+
+.conteiner {
+    font-size: 1.2em;
+    width: 94%;
+    margin: 2%; 
+}
+
+.pers{
+    color: rgb(101, 217, 255);
+}
+
+.crt{
+    color: rgb(130, 0, 185);
+}
+
+.loc{   
+    color: rgb(225, 255, 0);
+}
+
+.act{
+    color: rgb(245, 0, 0);
+}
+
+.sub{
+    color: rgb(164, 255, 26);
+}
